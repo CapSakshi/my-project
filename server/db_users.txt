@@ -1,0 +1,8 @@
+[
+  {
+    "_id": "69ee25f845a09112192e2d0b",
+    "name": "System Admin",
+    "email": "admin@system.local",
+    "role": "admin"
+  }
+]
