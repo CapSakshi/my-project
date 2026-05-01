@@ -21,6 +21,7 @@ export default function ProfilePage() {
   useEffect(() => {
     fetchRoadmaps();
     if (isOwn && user) setProfileForm({ name: user.name, bio: user.bio || '' });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [userId, isOwn]);
 
   const fetchRoadmaps = async () => {
