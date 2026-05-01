@@ -4,5 +4,23 @@
     "name": "System Admin",
     "email": "admin@system.local",
     "role": "admin"
+  },
+  {
+    "_id": "69ee2734768816ddce3deb4c",
+    "name": "Test User",
+    "email": "test@example.com",
+    "role": "user"
+  },
+  {
+    "_id": "69ee27e3768816ddce3dec1c",
+    "name": "Simmi yadav",
+    "email": "simmikumari708@gmail.com",
+    "role": "user"
+  },
+  {
+    "_id": "69ee39c5768816ddce3deecf",
+    "name": "Simmi yadav",
+    "email": "simmikumari8@gmail.com",
+    "role": "user"
   }
 ]
